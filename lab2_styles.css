@@ -1,5 +1,6 @@
 body {
     margin: 0;
+
 }
 
 h1 {
@@ -16,6 +17,7 @@ p {
     background-color: lightgreen;
     opacity: .5;
     width: 60%;
+
 }
 
 a {
@@ -47,4 +49,10 @@ div {
 	background-color: blue;
     opacity: .7;
     	
+}
+
+* {
+    margin:auto;
+
+    text-align: center;
 }

@@ -16,3 +16,19 @@ p {
 a {
     color:red;
 }
+
+.best:hover {
+	color : blue;
+}
+
+#important_paragraph:hover {
+	background-color:yellow;
+	font-size:40px;
+}
+
+.less_imortant_paragraph:hover {
+	color:blue;
+}
+
+
+
